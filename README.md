@@ -12,7 +12,7 @@ It uses **Natural Language Processing (NLP)** techniques to preprocess email tex
 ├── Feature extraction using TfidfVectorizer
 ├── Train model using Naive Bayes (MultinomialNB)
 ├── predict
-├── Evaluate the model 
+├── Evaluate the model  
 
 
 
