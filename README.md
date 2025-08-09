@@ -13,7 +13,7 @@ It uses **Natural Language Processing (NLP)** techniques to preprocess email tex
 ├── Train model using Naive Bayes (MultinomialNB)
 ├── predict
 ├── Evaluate the model  
-
+\
 
 
 Accuracy: 0.9644644644644644
