@@ -8,17 +8,28 @@ It uses **Natural Language Processing (NLP)** techniques to preprocess email tex
 
 ## 📂 Project Structure
 ├── spam and ham classification.csv # Dataset (spam/ham labeled)
+
 ├── Preprocess the datasetspam_classifier_model.pkl # Saved trained model
+
 ├── Feature extraction using TfidfVectorizer
+
 ├── Train model using Naive Bayes (MultinomialNB)
+
 ├── predict
+
 ├── Evaluate the model 
 
+
+
 Accuracy: 0.9644644644644644
+
 Confusion Matrix:
+
  [[1012   46]
  [  25  915]]
+ 
 Classification Report:
+
                precision    recall  f1-score   support
 
            0       0.98      0.96      0.97      1058
